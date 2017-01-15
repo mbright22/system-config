@@ -1,0 +1,12 @@
+  async              1.5           installed             Asynchronous processing in Emacs
+  color-theme-san... 1.10          installed             A version of Chris Kempson's various Tomorrow themes
+  dash               2.12.1        installed             A modern list library for Emacs
+  git-commit         2.3.0         installed             Edit Git commit messages
+  iedit              0.9.9         installed             Edit multiple regions in the same way simultaneously.
+  magit              2.3.0         installed             A Git porcelain inside Emacs
+  magit-popup        2.3.0         installed             Define prefix-infix-suffix command combos
+  marmalade-demo     0.0.5         installed             a demonstration elpa package
+  multiple-cursors   1.4.0         installed             Multiple cursors for Emacs.
+  smart-tabs-mode    1.0           installed             Intelligently indent with tabs, align with spaces!
+  web-mode           14            installed             major mode for editing web templates
+  with-editor        2.3.0         installed             Use the Emacsclient as $EDITOR
