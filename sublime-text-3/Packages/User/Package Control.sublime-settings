@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"C Improved",
+		"C99",
+		"CSS3",
+		"DocBlockr",
+		"GitGutter",
+		"GitStatus",
+		"ImprovedSQL",
+		"Jade",
+		"JavaScript Ultimate",
+		"jQuery",
+		"JSHint",
+		"JSHint Gutter",
+		"JSX",
+		"Markdown Preview",
+		"OpenScad",
+		"Package Control",
+		"Perv - Color Scheme",
+		"Pug",
+		"React ES6 Snippets",
+		"RichTextFormat",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"Theme - Nexus",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

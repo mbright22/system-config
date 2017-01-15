@@ -1,0 +1,23 @@
+{
+	"added_words":
+	[
+		"Zentri"
+	],
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"index_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
