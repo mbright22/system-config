@@ -82,7 +82,7 @@
 (add-to-list 'auto-mode-alist '("\\.djhtml\\'" . web-mode))
 
 ;multiple-cursors key bindings
-(global-set-key (kbd "C-m") 'mc/mark-next-like-this)
+;(global-set-key (kbd "C-m") 'mc/mark-next-like-this) ;stops enter working
 (global-set-key (kbd "M-m") 'mc/mark-previous-like-this)
 (global-set-key (kbd "C-S-m") 'mc/mark-all-like-this)
 (global-set-key (kbd "C-S-r") 'mc/mark-all-in-region-regexp)
