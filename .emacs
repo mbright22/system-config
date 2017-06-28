@@ -81,6 +81,10 @@
 (add-to-list 'auto-mode-alist '("\\.mustache\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.djhtml\\'" . web-mode))
 
+;;allow web mode for jsx in .js files
+(setq web-mode-content-types-alist
+  '(("jsx" . "\\.js[x]?\\'")))
+
 ;multiple-cursors key bindings
 ;(global-set-key (kbd "C-m") 'mc/mark-next-like-this) ;stops enter working
 (global-set-key (kbd "M-m") 'mc/mark-previous-like-this)
